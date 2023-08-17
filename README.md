@@ -2,3 +2,5 @@
 Projekt do datové akademie engeto 2021
 ---
 Power BI report a podklady
+
+Discord nick: <3#2073
